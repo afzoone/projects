@@ -6,6 +6,7 @@
 2. Cd to project directory
 3. Run `npm install` command
 4. Then run `npm start` command
+5. Open `http://localhost:3000` in your browser
 
 [Website](https://afzoone.dev/)
 

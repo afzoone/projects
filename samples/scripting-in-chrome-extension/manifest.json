@@ -1,0 +1,17 @@
+{
+  "short_name": "Scripting in Chrome Extensions",
+  "name": "Scripting in Chrome Extensions",
+  "description": "Scripting in Chrome Extensions",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "homepage_url": "https://www.afzoone.dev",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Scripting in Chrome Extensions"
+  },
+  "permissions": [
+    "tabs",
+    "activeTab",
+    "scripting"
+  ]
+}

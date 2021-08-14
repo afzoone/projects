@@ -1,0 +1,11 @@
+{
+  "short_name": "ساعت",
+  "name": "افزونه ساعت",
+  "description": "توضیحات پروژه",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "homepage_url": "https://www.afzoone.dev",
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  }
+}

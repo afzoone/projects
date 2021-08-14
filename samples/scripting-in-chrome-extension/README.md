@@ -1,5 +1,7 @@
-# scripting-in-chrome-extension
+# Scripting in Chrome Extension
 
-&#x202b; در این پروژه ما به DOM هر تب باز شده در مرورگر دسترسی پیدا  کردیم و توانستیم تغییراتی در DOM ایجاد کنیم.
+[Website](https://afzoone.dev/)
 
-[وب سایت](https://afzoone.dev/)
+[Instagram](https://instagram.com/afzoone.dev)
+
+[Telegram](https://t.me/afzoone_dev)

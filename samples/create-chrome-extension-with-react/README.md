@@ -1,4 +1,4 @@
-# Create chrome extension with react
+# Create Chrome Extension with React
 
 [Website](https://afzoone.dev/)
 
